@@ -1,20 +1,5 @@
 [
   {
-    "title": "Drive 1 Test",
-    "description": "I liked this project very much",
-    "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/1742212519184-bg-img.png",
-    "date": "25 januray 2024",
-    "location": "Multan",
-    "category": "Education",
-    "gallery": [
-      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1742212521152-founder-1.png",
-      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1742212522739-bg-img.png",
-      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1742212523909-taqdeer.png",
-      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1742212525021-download.png"
-    ],
-    "id": "1742212527455"
-  },
-  {
     "title": "test 2",
     "description": "testtt yayy",
     "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/1742213137784-taqdeer.png",
