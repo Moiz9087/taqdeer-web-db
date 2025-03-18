@@ -1,13 +1,5 @@
 {
   "teamApplicationLink": "mailto:contact@taqdeerenaw.org",
   "colorContrast": 100,
-  "founders": [
-    {
-      "name": "Taimoor",
-      "role": "Founders",
-      "bio": "OGGGGGGGGGGGG",
-      "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/founders/1742303962717-483468875_9260509594017857_5094624927779694671_n.jpg",
-      "id": "1742303975164"
-    }
-  ]
+  "founders": []
 }
