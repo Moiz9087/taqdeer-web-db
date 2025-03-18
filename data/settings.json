@@ -3,11 +3,11 @@
   "colorContrast": 100,
   "founders": [
     {
-      "name": "TESTTT",
-      "role": "idkk",
+      "id": "1742304103803",
+      "name": "Muhammad Tameem Rao",
+      "role": "Founder",
       "bio": "asdfasdfddas",
-      "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/founders/1742304089966-founder-1.png",
-      "id": "1742304103803"
+      "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/founders/1742304089966-founder-1.png"
     }
   ]
 }
