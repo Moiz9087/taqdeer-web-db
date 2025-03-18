@@ -1,5 +1,13 @@
 {
   "teamApplicationLink": "mailto:contact@taqdeerenaw.org",
   "colorContrast": 100,
-  "founders": []
+  "founders": [
+    {
+      "name": "TESTTT",
+      "role": "idkk",
+      "bio": "asdfasdfddas",
+      "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/founders/1742304089966-founder-1.png",
+      "id": "1742304103803"
+    }
+  ]
 }
