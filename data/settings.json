@@ -16,5 +16,11 @@
       "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/founders/1742304213120-founder-2.png",
       "id": "1742304221496"
     }
-  ]
+  ],
+  "themeColors": {
+    "primary": "#009B4D",
+    "primaryDark": "#007A3D",
+    "primaryLight": "#adedcd",
+    "accentContrast": 1
+  }
 }
