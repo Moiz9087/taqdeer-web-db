@@ -1,5 +1,13 @@
 [
   {
+    "id": "1742514053472",
+    "timestamp": "2025-03-20T23:40:53.472Z",
+    "action": "delete",
+    "details": "Deleted application submission from contact@taqdeerenaw.org",
+    "entity": "application",
+    "entityId": "1742513125645"
+  },
+  {
     "id": "1742482956156",
     "timestamp": "2025-03-20T15:02:36.156Z",
     "action": "open",
