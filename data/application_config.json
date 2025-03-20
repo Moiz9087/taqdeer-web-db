@@ -3,7 +3,7 @@
   "description": "We are looking for dedicated individuals to join our team. Please fill out the application form below.",
   "submitButtonText": "Submit Application",
   "successMessage": "Thank you for your application. We will review it and get back to you soon.",
-  "isActive": true,
+  "isActive": false,
   "questions": [
     {
       "id": "1",
@@ -45,7 +45,12 @@
       "text": "How did you hear about us?",
       "type": "select",
       "required": true,
-      "options": ["Social Media", "Friend/Family", "Website", "Other"]
+      "options": [
+        "Social Media",
+        "Friend/Family",
+        "Website",
+        "Other"
+      ]
     }
   ]
 }
