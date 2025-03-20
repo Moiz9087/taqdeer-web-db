@@ -1,5 +1,13 @@
 [
   {
+    "id": "1742514062532",
+    "timestamp": "2025-03-20T23:41:02.532Z",
+    "action": "delete",
+    "details": "Deleted application submission from iamaprominecrafter47890@gmail.com",
+    "entity": "application",
+    "entityId": "1742482542755"
+  },
+  {
     "id": "1742514057819",
     "timestamp": "2025-03-20T23:40:57.819Z",
     "action": "delete",
