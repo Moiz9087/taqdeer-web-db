@@ -37,6 +37,17 @@
         "Website",
         "Other"
       ]
+    },
+    {
+      "id": "1742480296983",
+      "text": "mcq test",
+      "type": "radio",
+      "required": true,
+      "placeholder": "",
+      "options": [
+        "Option 1",
+        "Option 2"
+      ]
     }
   ]
 }
