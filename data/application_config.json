@@ -6,11 +6,51 @@
   "isActive": true,
   "questions": [
     {
-      "id": "1742476150813",
-      "text": "test",
+      "id": "1",
+      "text": "Full Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "Enter your full name"
+    },
+    {
+      "id": "2",
+      "text": "Email Address",
+      "type": "email",
+      "required": true,
+      "placeholder": "Enter your email address"
+    },
+    {
+      "id": "3",
+      "text": "Phone Number",
+      "type": "tel",
+      "required": true,
+      "placeholder": "Enter your phone number"
+    },
+    {
+      "id": "4",
+      "text": "Why do you want to join our team?",
       "type": "textarea",
       "required": true,
-      "placeholder": "lol"
+      "placeholder": "Tell us why you want to join our team"
+    },
+    {
+      "id": "5",
+      "text": "What skills or experience do you have that would benefit our organization?",
+      "type": "textarea",
+      "required": true,
+      "placeholder": "Describe your relevant skills and experience"
+    },
+    {
+      "id": "6",
+      "text": "How did you hear about us?",
+      "type": "select",
+      "required": true,
+      "options": [
+        "Social Media",
+        "Friend/Family",
+        "Website",
+        "Other"
+      ]
     }
   ]
 }
