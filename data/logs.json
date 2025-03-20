@@ -1,5 +1,13 @@
 [
   {
+    "id": "1742480266872",
+    "timestamp": "2025-03-20T14:17:46.872Z",
+    "action": "delete",
+    "details": "Deleted application submission from freemcserver987@gmail.com",
+    "entity": "application",
+    "entityId": "1742479027257"
+  },
+  {
     "id": "1742480255468",
     "timestamp": "2025-03-20T14:17:35.468Z",
     "action": "update",
