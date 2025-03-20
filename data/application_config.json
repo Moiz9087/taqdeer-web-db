@@ -13,20 +13,6 @@
       "placeholder": "Enter your full name"
     },
     {
-      "id": "2",
-      "text": "Email Address",
-      "type": "email",
-      "required": true,
-      "placeholder": "Enter your email address"
-    },
-    {
-      "id": "3",
-      "text": "Phone Number",
-      "type": "tel",
-      "required": true,
-      "placeholder": "Enter your phone number"
-    },
-    {
       "id": "4",
       "text": "Why do you want to join our team?",
       "type": "textarea",
