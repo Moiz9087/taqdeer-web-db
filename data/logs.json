@@ -1,5 +1,12 @@
 [
   {
+    "id": "1742477781010",
+    "timestamp": "2025-03-20T13:36:21.010Z",
+    "action": "update",
+    "details": "Updated application form configuration",
+    "entity": "application-config"
+  },
+  {
     "id": "1742476813416",
     "timestamp": "2025-03-20T13:20:13.416Z",
     "action": "reset",
