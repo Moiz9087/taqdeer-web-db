@@ -1,5 +1,12 @@
 [
   {
+    "id": "1742475905549",
+    "timestamp": "2025-03-20T13:05:05.549Z",
+    "action": "open",
+    "details": "Opened applications for submissions",
+    "entity": "application-system"
+  },
+  {
     "id": "1742475893952",
     "timestamp": "2025-03-20T13:04:53.952Z",
     "action": "close",
