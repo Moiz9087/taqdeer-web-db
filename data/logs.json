@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743882151963",
+    "timestamp": "2025-04-05T19:42:31.963Z",
+    "action": "add",
+    "details": "Added team member: Muhammad Nawfal",
+    "entity": "team",
+    "entityId": "1743882149752"
+  },
+  {
     "id": "1743879314203",
     "timestamp": "2025-04-05T18:55:14.203Z",
     "action": "add",
