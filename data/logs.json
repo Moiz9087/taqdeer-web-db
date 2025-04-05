@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743877445204",
+    "timestamp": "2025-04-05T18:24:05.204Z",
+    "action": "add",
+    "details": "Added founder: Moizz",
+    "entity": "founder",
+    "entityId": "1743877444610"
+  },
+  {
     "id": "1743877346283",
     "timestamp": "2025-04-05T18:22:26.283Z",
     "action": "update",
