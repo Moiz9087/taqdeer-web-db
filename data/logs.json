@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743879290006",
+    "timestamp": "2025-04-05T18:54:50.006Z",
+    "action": "update",
+    "details": "Updated team member: Hamza Hanjra",
+    "entity": "team",
+    "entityId": "1743879245548"
+  },
+  {
     "id": "1743879278472",
     "timestamp": "2025-04-05T18:54:38.472Z",
     "action": "add",
