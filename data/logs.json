@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743879278472",
+    "timestamp": "2025-04-05T18:54:38.472Z",
+    "action": "add",
+    "details": "Added team member: Abdullah Kaleem",
+    "entity": "team",
+    "entityId": "1743879276149"
+  },
+  {
     "id": "1743879247798",
     "timestamp": "2025-04-05T18:54:07.798Z",
     "action": "add",
