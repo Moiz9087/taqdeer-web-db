@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743882270596",
+    "timestamp": "2025-04-05T19:44:30.596Z",
+    "action": "delete",
+    "details": "Deleted project: tes32",
+    "entity": "project",
+    "entityId": "1742304351875"
+  },
+  {
     "id": "1743882186921",
     "timestamp": "2025-04-05T19:43:06.921Z",
     "action": "update",
