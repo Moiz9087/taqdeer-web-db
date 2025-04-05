@@ -30,5 +30,13 @@
     "bio": "",
     "teamType": "executive",
     "id": "1743879312297"
+  },
+  {
+    "name": "Muhammad Nawfal",
+    "role": "Head of Departments",
+    "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/team/1743882147966-WhatsApp_Image_2025-04-06_at_00.41.45.jpeg",
+    "bio": "",
+    "teamType": "core",
+    "id": "1743882149752"
   }
 ]
