@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743924254267",
+    "timestamp": "2025-04-06T07:24:14.267Z",
+    "action": "update",
+    "details": "Updated project: Bait e Jamila Project",
+    "entity": "project",
+    "entityId": "1743924075966"
+  },
+  {
     "id": "1743924205945",
     "timestamp": "2025-04-06T07:23:25.945Z",
     "action": "update",
