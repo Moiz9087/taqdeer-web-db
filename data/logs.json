@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743939574516",
+    "timestamp": "2025-04-06T11:39:34.516Z",
+    "action": "delete",
+    "details": "Deleted application submission from evilgaming67890@gmail.com",
+    "entity": "application",
+    "entityId": "1743096781825"
+  },
+  {
     "id": "1743924254267",
     "timestamp": "2025-04-06T07:24:14.267Z",
     "action": "update",
