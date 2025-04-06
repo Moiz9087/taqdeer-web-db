@@ -1,5 +1,13 @@
 [
   {
+    "id": "1743919798208",
+    "timestamp": "2025-04-06T06:09:58.208Z",
+    "action": "add",
+    "details": "Added team member: Muhammad Bilal",
+    "entity": "team",
+    "entityId": "1743919795998"
+  },
+  {
     "id": "1743882270596",
     "timestamp": "2025-04-05T19:44:30.596Z",
     "action": "delete",
