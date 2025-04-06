@@ -6,8 +6,15 @@
     "date": "28 September 2024",
     "location": "Multan, Punjab",
     "category": "Education",
-    "gallery": [],
-    "content": "On 28th September 2024, Taqdeer e Naw organized a special visit to Bait-e-Jamila Orphanage in Multan, Punjab, as part of our ongoing efforts in social welfare. The purpose of this visit was to bring moments of happiness, warmth, and human connection to the children residing there.\n\n",
+    "gallery": [
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1743924246094-461329509_2192389791162197_4539577185096934173_n.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1743924246990-461516237_872687191188082_2546458845679081996_n.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1743924248016-461235020_524786370152926_6785793365591340206_n.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1743924249005-461441016_504209325741565_2908312413390783432_n.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1743924250021-461552503_461236916959976_9200427214002444367_n.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1743924251009-461562278_1197813291291959_3702695595251083806_n.jpg"
+    ],
+    "content": "On 28th September 2024, Taqdeer e Naw organized a special visit to Bait-e-Jamila Orphanage in Multan, Punjab, as part of our ongoing efforts in social welfare. The purpose of this visit was to bring moments of happiness, warmth, and human connection to the children residing there.\n\n\n",
     "id": "1743924075966",
     "slug": "bait-e-jamila-project"
   }
