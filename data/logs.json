@@ -1,5 +1,13 @@
 [
   {
+    "id": "1744052878205",
+    "timestamp": "2025-04-07T19:07:58.205Z",
+    "action": "update",
+    "details": "Updated application status to reviewed",
+    "entity": "application",
+    "entityId": "1744052333733"
+  },
+  {
     "id": "1744052252475",
     "timestamp": "2025-04-07T18:57:32.475Z",
     "action": "reset",
