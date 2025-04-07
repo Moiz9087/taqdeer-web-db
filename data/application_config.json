@@ -3,21 +3,28 @@
   "description": "We are looking for dedicated individuals to join our team. Please fill out the application form below.",
   "submitButtonText": "Submit Application",
   "successMessage": "Thank you for your application. We will review it and get back to you soon.",
-  "isActive": false,
+  "isActive": true,
   "questions": [
-    {
-      "id": "1742481181204",
-      "text": "Phone Number",
-      "type": "tel",
-      "required": true,
-      "placeholder": "Enter your Number"
-    },
     {
       "id": "1",
       "text": "Full Name",
       "type": "text",
       "required": true,
       "placeholder": "Enter your full name"
+    },
+    {
+      "id": "2",
+      "text": "Email Address",
+      "type": "email",
+      "required": true,
+      "placeholder": "Enter your email address"
+    },
+    {
+      "id": "3",
+      "text": "Phone Number",
+      "type": "tel",
+      "required": true,
+      "placeholder": "Enter your phone number"
     },
     {
       "id": "4",
@@ -43,17 +50,6 @@
         "Friend/Family",
         "Website",
         "Other"
-      ]
-    },
-    {
-      "id": "1742480296983",
-      "text": "mcq test",
-      "type": "radio",
-      "required": true,
-      "placeholder": "",
-      "options": [
-        "Option 1",
-        "Option 2"
       ]
     }
   ]
