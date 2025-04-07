@@ -1,5 +1,13 @@
 [
   {
+    "id": "1744053383241",
+    "timestamp": "2025-04-07T19:16:23.241Z",
+    "action": "delete",
+    "details": "Deleted contact submission from Moiz Amjad",
+    "entity": "contact",
+    "entityId": "1743956111119"
+  },
+  {
     "id": "1744053286889",
     "timestamp": "2025-04-07T19:14:46.889Z",
     "action": "delete",
