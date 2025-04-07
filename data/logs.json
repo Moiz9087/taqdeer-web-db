@@ -1,5 +1,13 @@
 [
   {
+    "id": "1744053286889",
+    "timestamp": "2025-04-07T19:14:46.889Z",
+    "action": "delete",
+    "details": "Deleted application submission from sane@pakmc.pro",
+    "entity": "application",
+    "entityId": "1744052333733"
+  },
+  {
     "id": "1744052878205",
     "timestamp": "2025-04-07T19:07:58.205Z",
     "action": "update",
