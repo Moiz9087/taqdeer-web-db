@@ -1,5 +1,13 @@
 [
   {
+    "id": "1744053386247",
+    "timestamp": "2025-04-07T19:16:26.247Z",
+    "action": "delete",
+    "details": "Deleted contact submission from amjad ali",
+    "entity": "contact",
+    "entityId": "1744052210355"
+  },
+  {
     "id": "1744053383241",
     "timestamp": "2025-04-07T19:16:23.241Z",
     "action": "delete",
