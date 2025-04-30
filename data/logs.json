@@ -1,5 +1,13 @@
 [
   {
+    "id": "1746038256244",
+    "timestamp": "2025-04-30T18:37:36.244Z",
+    "action": "delete",
+    "details": "Deleted contact submission from 6577",
+    "entity": "contact",
+    "entityId": "1746038229249"
+  },
+  {
     "id": "1746038252376",
     "timestamp": "2025-04-30T18:37:32.376Z",
     "action": "delete",
