@@ -1,5 +1,13 @@
 [
   {
+    "id": "1746172082678",
+    "timestamp": "2025-05-02T07:48:02.678Z",
+    "action": "delete",
+    "details": "Deleted project: adf",
+    "entity": "project",
+    "entityId": "1746171592618"
+  },
+  {
     "id": "1746172061334",
     "timestamp": "2025-05-02T07:47:41.334Z",
     "action": "update",
