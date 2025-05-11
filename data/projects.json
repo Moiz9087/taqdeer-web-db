@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "title": "Food Drive",
+    "description": "Providing essential food packages to underprivileged families in Multan to combat hunger and promote community care.\n\n",
+    "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/1746939659329-indownloader.app_picture_0753612001746939596.jpg",
+    "date": "14 Septemer 2024",
+    "location": "Multan, Punjab",
+    "category": "Social Welfare",
+    "gallery": [
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1746939660897-indownloader.app_picture_0044205001746939650.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1746939662123-indownloader.app_picture_0458731001746939649.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1746939663454-indownloader.app_picture_0990013001746939645.jpg",
+      "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/projects/gallery/1746939664626-indownloader.app_picture_0205683001746939643.jpg"
+    ],
+    "content": "Taqdeer-e-Naw proudly launched its inaugural initiative, the Food Drive, on 14th September 2024 in Multan, Punjab. This project was a heartfelt response to the growing issue of food insecurity among underprivileged communities in the region.\n\nThe Food Drive aimed to provide immediate relief by distributing thoughtfully prepared food packages to families in need. Each package included essential items such as flour, rice, pulses, sugar, tea, and cooking oil—enough to sustain a family for several days. Through careful planning and community engagement, we were able to serve over 200 families across various neighborhoods in Multan.\n\nBeyond meeting basic needs, the Food Drive was a demonstration of compassion, solidarity, and the power of collective action. Volunteers from diverse backgrounds came together with a shared mission—to ensure that no family went to bed hungry. Their dedication and unity transformed a simple act of giving into a meaningful movement of hope.\n\nThis project marks the beginning of Taqdeer-e-Naw’s journey toward sustainable social impact. We are committed to expanding our efforts and launching more initiatives that uplift, empower, and bring dignity to those in need. The Food Drive is not just a project—it is a promise of care, community, and a better tomorrow.",
+    "slug": "food-drive",
+    "id": "1746939666241"
+  }
+]
