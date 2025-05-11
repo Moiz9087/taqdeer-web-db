@@ -46,6 +46,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://taqdeerenaw.org/projects/visit-to-bait-e-jamila-orphanage</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://taqdeerenaw.org/team/taimoor-ali</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
