@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747074998383",
+    "timestamp": "2025-05-12T18:36:38.383Z",
+    "action": "delete",
+    "details": "Deleted football team registration for sadsa",
+    "entity": "football-registration",
+    "entityId": "1747072647273"
+  },
+  {
     "id": "1747074557080",
     "timestamp": "2025-05-12T18:29:17.080Z",
     "action": "update",
