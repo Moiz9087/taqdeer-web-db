@@ -1,0 +1,20 @@
+{
+  "introText": "Welcome to our football team registration. Please fill out the form below to register your team for upcoming tournaments and matches.",
+  "questions": [
+    {
+      "id": "team_size",
+      "label": "How many players are in your team?",
+      "type": "number",
+      "placeholder": "Enter number of players",
+      "required": true
+    },
+    {
+      "id": "experience",
+      "label": "Team Experience Level",
+      "type": "text",
+      "placeholder": "e.g., Beginner, Intermediate, Professional",
+      "required": true
+    }
+  ],
+  "termsText": "By submitting this form, you agree to follow all tournament rules and regulations."
+}
