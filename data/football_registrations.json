@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "teamName": "sadsa",
+    "contactPerson": "asdasd",
+    "contactEmail": "me@moiz.com",
+    "contactPhone": "03008376204",
+    "answers": {
+      "team_size": "4",
+      "experience": "lol"
+    },
+    "submittedAt": "2025-05-12T17:57:26.884Z",
+    "id": "1747072647273",
+    "status": "pending"
+  }
+]
