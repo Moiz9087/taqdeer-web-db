@@ -16,5 +16,9 @@
       "required": true
     }
   ],
-  "termsText": "By submitting this form, you agree to follow all tournament rules and regulations."
+  "termsText": "By submitting this form, you agree to follow all tournament rules and regulations.",
+  "rules": [
+    "Ahahahaha Add rule here",
+    "Ahahahaha add rule 2 here :)"
+  ]
 }
