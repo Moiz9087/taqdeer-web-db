@@ -10,9 +10,9 @@
     },
     {
       "id": "experience",
-      "label": "Team Experience Level",
+      "label": "question 2 idk",
       "type": "text",
-      "placeholder": "e.g., Beginner, Intermediate, Professional",
+      "placeholder": "",
       "required": true
     }
   ],
