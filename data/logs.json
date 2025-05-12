@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747040893589",
+    "timestamp": "2025-05-12T09:08:13.589Z",
+    "action": "update",
+    "details": "Updated team member: Taimoor Ali",
+    "entity": "team",
+    "entityId": "1742236545427"
+  },
+  {
     "id": "1746976345288",
     "timestamp": "2025-05-11T15:12:25.288Z",
     "action": "update",
