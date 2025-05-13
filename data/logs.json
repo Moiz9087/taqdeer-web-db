@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747158779305",
+    "timestamp": "2025-05-13T17:52:59.305Z",
+    "action": "add",
+    "details": "New football team registration from Khetran's lovers",
+    "entity": "football-registration",
+    "entityId": "1747158778239"
+  },
+  {
     "id": "1747158648868",
     "timestamp": "2025-05-13T17:50:48.868Z",
     "action": "add",
