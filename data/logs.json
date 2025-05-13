@@ -1,5 +1,12 @@
 [
   {
+    "id": "1747158224819",
+    "timestamp": "2025-05-13T17:43:44.819Z",
+    "action": "update",
+    "details": "Updated football team registration form configuration",
+    "entity": "settings"
+  },
+  {
     "id": "1747156900865",
     "timestamp": "2025-05-13T17:21:40.865Z",
     "action": "update",
