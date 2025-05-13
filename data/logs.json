@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747158953529",
+    "timestamp": "2025-05-13T17:55:53.529Z",
+    "action": "update",
+    "details": "Updated team member: Moiz Amjad Baloch",
+    "entity": "team",
+    "entityId": "1743879312297"
+  },
+  {
     "id": "1747158908122",
     "timestamp": "2025-05-13T17:55:08.122Z",
     "action": "update",
