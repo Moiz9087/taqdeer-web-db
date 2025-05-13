@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747162079748",
+    "timestamp": "2025-05-13T18:47:59.748Z",
+    "action": "add",
+    "details": "New football team registration from Myo",
+    "entity": "football-registration",
+    "entityId": "1747162078959"
+  },
+  {
     "id": "1747159526116",
     "timestamp": "2025-05-13T18:05:26.116Z",
     "action": "delete",
