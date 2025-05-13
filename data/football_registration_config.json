@@ -2,6 +2,13 @@
   "introText": "Welcome to our football team registration. Please fill out the form below to register your team for upcoming tournaments and matches.",
   "questions": [
     {
+      "id": "1747156449272",
+      "label": "What is your team name",
+      "type": "text",
+      "placeholder": "",
+      "required": true
+    },
+    {
       "id": "team_size",
       "label": "How many players are in your team?",
       "type": "number",
@@ -9,8 +16,8 @@
       "required": true
     },
     {
-      "id": "experience",
-      "label": "question 2 idk",
+      "id": "1747156464276",
+      "label": "Please enter the members of your team along with the captain",
       "type": "text",
       "placeholder": "",
       "required": true
@@ -18,7 +25,8 @@
   ],
   "termsText": "By submitting this form, you agree to follow all tournament rules and regulations.",
   "rules": [
-    "Ahahahaha Add rule here",
-    "Ahahahaha add rule 2 here :)"
+    "You will have to pay 2000 Rupees as entry fees ",
+    "The tournament will be in evening",
+    "The tournament will be held in evening\n"
   ]
 }
