@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747159526116",
+    "timestamp": "2025-05-13T18:05:26.116Z",
+    "action": "delete",
+    "details": "Deleted football team registration for Khetran's lovers",
+    "entity": "football-registration",
+    "entityId": "1747158778239"
+  },
+  {
     "id": "1747159187095",
     "timestamp": "2025-05-13T17:59:47.095Z",
     "action": "update",
