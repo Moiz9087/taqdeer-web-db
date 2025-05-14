@@ -1,5 +1,12 @@
 [
   {
+    "id": "1747198239921",
+    "timestamp": "2025-05-14T04:50:39.921Z",
+    "action": "update",
+    "details": "Updated global settings",
+    "entity": "settings"
+  },
+  {
     "id": "1747198141822",
     "timestamp": "2025-05-14T04:49:01.822Z",
     "action": "add",
