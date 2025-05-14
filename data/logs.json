@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747198240938",
+    "timestamp": "2025-05-14T04:50:40.938Z",
+    "action": "update",
+    "details": "Updated founder: Zaid Khan Lodhi",
+    "entity": "founder",
+    "entityId": "1747198139823"
+  },
+  {
     "id": "1747198239921",
     "timestamp": "2025-05-14T04:50:39.921Z",
     "action": "update",
