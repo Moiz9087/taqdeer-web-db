@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747198083642",
+    "timestamp": "2025-05-14T04:48:03.642Z",
+    "action": "add",
+    "details": "Added founder: Muhammad Tameem Rao",
+    "entity": "founder",
+    "entityId": "1747198081248"
+  },
+  {
     "id": "1747198082247",
     "timestamp": "2025-05-14T04:48:02.247Z",
     "action": "update",
