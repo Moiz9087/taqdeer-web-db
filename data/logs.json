@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747503058442",
+    "timestamp": "2025-05-17T17:30:58.442Z",
+    "action": "add",
+    "details": "New football team registration from Sharif academy FC",
+    "entity": "football-registration",
+    "entityId": "1747503057735"
+  },
+  {
     "id": "1747198240938",
     "timestamp": "2025-05-14T04:50:40.938Z",
     "action": "update",
