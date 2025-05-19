@@ -55,5 +55,19 @@
     "submittedAt": "2025-05-19T15:35:09.625Z",
     "id": "1747668910738",
     "status": "pending"
+  },
+  {
+    "teamName": "Buch fc U-18",
+    "contactPerson": "Qaboos Zafar",
+    "contactEmail": "qabooszafar92@gmail.com",
+    "contactPhone": "03012070808",
+    "answers": {
+      "1747156580077": "Qaboosbinzafar",
+      "team_size": "7",
+      "1747156464276": "Qaboos (captain)"
+    },
+    "submittedAt": "2025-05-19T18:18:57.936Z",
+    "id": "1747678738997",
+    "status": "pending"
   }
 ]
