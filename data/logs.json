@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747682607400",
+    "timestamp": "2025-05-19T19:23:27.400Z",
+    "action": "update",
+    "details": "Updated football team registration for Goal diggers ",
+    "entity": "football-registration",
+    "entityId": "1747668910738"
+  },
+  {
     "id": "1747682601640",
     "timestamp": "2025-05-19T19:23:21.640Z",
     "action": "update",
