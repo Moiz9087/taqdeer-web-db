@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747682312079",
+    "timestamp": "2025-05-19T19:18:32.079Z",
+    "action": "delete",
+    "details": "Deleted football team registration for rer",
+    "entity": "football-registration",
+    "entityId": "1747158648093"
+  },
+  {
     "id": "1747678739702",
     "timestamp": "2025-05-19T18:18:59.702Z",
     "action": "add",
