@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747682317281",
+    "timestamp": "2025-05-19T19:18:37.281Z",
+    "action": "delete",
+    "details": "Deleted football team registration for Myo",
+    "entity": "football-registration",
+    "entityId": "1747162078959"
+  },
+  {
     "id": "1747682312079",
     "timestamp": "2025-05-19T19:18:32.079Z",
     "action": "delete",
