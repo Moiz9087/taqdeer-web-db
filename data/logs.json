@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747684928120",
+    "timestamp": "2025-05-19T20:02:08.120Z",
+    "action": "add",
+    "details": "New football team registration from D warriors",
+    "entity": "football-registration",
+    "entityId": "1747684927321"
+  },
+  {
     "id": "1747682613596",
     "timestamp": "2025-05-19T19:23:33.596Z",
     "action": "update",
