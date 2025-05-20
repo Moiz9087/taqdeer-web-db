@@ -54,5 +54,19 @@
     "submittedAt": "2025-05-19T20:02:05.939Z",
     "id": "1747684927321",
     "status": "pending"
+  },
+  {
+    "teamName": "Askari FC",
+    "contactPerson": "Abdul Nafay Qasim",
+    "contactEmail": "abdulnafay1011@gmail.com",
+    "contactPhone": "0314 3624113",
+    "answers": {
+      "1747156580077": "abdulnafayqasim",
+      "team_size": "7",
+      "1747156464276": "Alliyan (Captain) , Ibrahim , Hasnain , Alliyan Hassan, Shaan, Talha And Qasim."
+    },
+    "submittedAt": "2025-05-20T08:57:17.639Z",
+    "id": "1747731439037",
+    "status": "pending"
   }
 ]
