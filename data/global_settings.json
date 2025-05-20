@@ -1,11 +1,11 @@
 {
   "founders": [
     {
-      "name": "Muhammad Tameem Rao",
+      "id": "1747198081248",
+      "name": "Muhammad Tameem bin Moiz",
       "role": "Founder",
       "bio": "Founder123",
-      "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/founders/1747198068966-WhatsApp_Image_2025-04-05_at_23.19.43.jpeg",
-      "id": "1747198081248"
+      "image": "https://raw.githubusercontent.com/Moiz9087/taqdeer-web-db/main/images/founders/1747198068966-WhatsApp_Image_2025-04-05_at_23.19.43.jpeg"
     },
     {
       "id": "1747198139823",
