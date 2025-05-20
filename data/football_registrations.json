@@ -82,5 +82,19 @@
     "submittedAt": "2025-05-20T15:58:49.926Z",
     "id": "1747756731234",
     "status": "approved"
+  },
+  {
+    "teamName": "Khani fc",
+    "contactPerson": "Muhammad khan khakwani",
+    "contactEmail": "mkhankhakwani01@gmail.com",
+    "contactPhone": "03029286906",
+    "answers": {
+      "1747156580077": "Mkhakwani01",
+      "team_size": "7",
+      "1747156464276": "khani (c)"
+    },
+    "submittedAt": "2025-05-20T17:01:17.719Z",
+    "id": "1747760479007",
+    "status": "pending"
   }
 ]
