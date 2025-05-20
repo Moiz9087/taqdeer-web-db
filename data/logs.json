@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747760479982",
+    "timestamp": "2025-05-20T17:01:19.982Z",
+    "action": "add",
+    "details": "New football team registration from Khani fc",
+    "entity": "football-registration",
+    "entityId": "1747760479007"
+  },
+  {
     "id": "1747759436703",
     "timestamp": "2025-05-20T16:43:56.703Z",
     "action": "update",
