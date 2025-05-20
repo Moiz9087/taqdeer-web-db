@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747767713911",
+    "timestamp": "2025-05-20T19:01:53.911Z",
+    "action": "update",
+    "details": "Updated founder: Muhammad Tameem bin Moiz",
+    "entity": "founder",
+    "entityId": "1747198081248"
+  },
+  {
     "id": "1747767712640",
     "timestamp": "2025-05-20T19:01:52.640Z",
     "action": "update",
