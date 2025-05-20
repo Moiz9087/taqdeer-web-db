@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747731439775",
+    "timestamp": "2025-05-20T08:57:19.775Z",
+    "action": "add",
+    "details": "New football team registration from Askari FC",
+    "entity": "football-registration",
+    "entityId": "1747731439037"
+  },
+  {
     "id": "1747684928120",
     "timestamp": "2025-05-19T20:02:08.120Z",
     "action": "add",
