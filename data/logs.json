@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747846684181",
+    "timestamp": "2025-05-21T16:58:04.181Z",
+    "action": "delete",
+    "details": "Deleted football team registration for Moo",
+    "entity": "football-registration",
+    "entityId": "1747769044155"
+  },
+  {
     "id": "1747769460494",
     "timestamp": "2025-05-20T19:31:00.494Z",
     "action": "add",
