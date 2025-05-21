@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747853709461",
+    "timestamp": "2025-05-21T18:55:09.461Z",
+    "action": "update",
+    "details": "Updated football team registration for Buch fc U-18",
+    "entity": "football-registration",
+    "entityId": "1747678738997"
+  },
+  {
     "id": "1747853704352",
     "timestamp": "2025-05-21T18:55:04.352Z",
     "action": "update",
