@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747846702949",
+    "timestamp": "2025-05-21T16:58:22.950Z",
+    "action": "update",
+    "details": "Updated football team registration for Remontada fv",
+    "entity": "football-registration",
+    "entityId": "1747769459591"
+  },
+  {
     "id": "1747846690735",
     "timestamp": "2025-05-21T16:58:10.735Z",
     "action": "update",
