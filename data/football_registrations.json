@@ -110,5 +110,19 @@
     "submittedAt": "2025-05-20T19:30:57.955Z",
     "id": "1747769459591",
     "status": "approved"
+  },
+  {
+    "teamName": "Pizzeria FC",
+    "contactPerson": "Ahsan razaq",
+    "contactEmail": "ahsanrazaqch@gmail.com",
+    "contactPhone": "0322 6194252",
+    "answers": {
+      "1747156580077": "Ahsan_razaqq",
+      "team_size": "7",
+      "1747156464276": "Ahsan Moosa Reyan Haider Sameer Momin Babar "
+    },
+    "submittedAt": "2025-05-22T18:17:51.502Z",
+    "id": "1747937873209",
+    "status": "pending"
   }
 ]
