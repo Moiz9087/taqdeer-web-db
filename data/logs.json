@@ -1,5 +1,13 @@
 [
   {
+    "id": "1747940385695",
+    "timestamp": "2025-05-22T18:59:45.695Z",
+    "action": "update",
+    "details": "Updated football team registration for Pizzeria FC",
+    "entity": "football-registration",
+    "entityId": "1747937873209"
+  },
+  {
     "id": "1747937874174",
     "timestamp": "2025-05-22T18:17:54.174Z",
     "action": "add",
